@@ -3812,6 +3812,36 @@
     "streamLogo": "https://images.pluto.tv/channels/64dab1f835425100080e1e7b/colorLogoSVG_1751300667403.svg"
   },
   {
+    "id": "Acasa.ro",
+    "name": "Acasa",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/Acasa_2022_flat.png/960px-Acasa_2022_flat.png",
+    "categories": [
+      "entertainment"
+    ],
+    "country": "RO",
+    "network": null,
+    "website": "https://acasatv.ro/",
+    "streamUrl": "http://eb4b8dcf.kablakaka.ru/iptv/AE8BY6FHF5ZGAG/6988/index.m3u8",
+    "quality": null,
+    "streamName": "Acasa",
+    "streamLogo": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/Acasa_2022_flat.png/960px-Acasa_2022_flat.png"
+  },
+  {
+    "id": "AcasaGold.ro",
+    "name": "Acasa Gold",
+    "logo": "https://static.wikia.nocookie.net/logopedia/images/f/fb/Acasa_Gold_2022.svg/revision/latest/scale-to-width-down/512",
+    "categories": [
+      "entertainment"
+    ],
+    "country": "RO",
+    "network": null,
+    "website": "http://www.acasagold.ro/",
+    "streamUrl": "http://eb4b8dcf.kablakaka.ru/iptv/AE8BY6FHF5ZGAG/6945/index.m3u8",
+    "quality": null,
+    "streamName": "Acasa Gold",
+    "streamLogo": "https://static.wikia.nocookie.net/logopedia/images/f/fb/Acasa_Gold_2022.svg/revision/latest/scale-to-width-down/512"
+  },
+  {
     "id": "ACCDigitalNetwork.us",
     "name": "ACC Digital Network",
     "logo": "https://i.imgur.com/V6Kaqha.png",
@@ -21586,6 +21616,19 @@
     "quality": "720p",
     "streamName": "Canal 8 Catacaos",
     "streamLogo": "https://i.imgur.com/O5MrFjY.png"
+  },
+  {
+    "id": "Canal8MardelPlata.ar",
+    "name": "Canal 8 Mar del Plata",
+    "logo": "https://i.imgur.com/G7TaQ1L.png",
+    "categories": [],
+    "country": "AR",
+    "network": null,
+    "website": "https://canal8mardelplata.com.ar/",
+    "streamUrl": "https://canal8mdq.unpocodeawita.workers.dev/",
+    "quality": "720p",
+    "streamName": "Canal 8 Mar del Plata",
+    "streamLogo": "https://i.imgur.com/G7TaQ1L.png"
   },
   {
     "id": "Canal8SanJuan.ar",
@@ -45681,21 +45724,6 @@
     "quality": "1080p",
     "streamName": "FX Latin America",
     "streamLogo": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/FX_International_logo.svg/960px-FX_International_logo.svg.png"
-  },
-  {
-    "id": "FXMovieChannel.us",
-    "name": "FX Movie Channel",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/FXM_Logo.svg/960px-FXM_Logo.svg.png",
-    "categories": [
-      "movies"
-    ],
-    "country": "US",
-    "network": "FX Channels",
-    "website": "https://www.fxnetworks.com/fxm",
-    "streamUrl": "https://sra72yz.s.gy/FX_MOVIE_CHANNEL_US.m3u8",
-    "quality": "1080p",
-    "streamName": "FX Movie Channel",
-    "streamLogo": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/FXM_Logo.svg/960px-FXM_Logo.svg.png"
   },
   {
     "id": "G10TV.us",
@@ -78593,8 +78621,8 @@
     "country": "US",
     "network": "Nickelodeon",
     "website": "http://www.nick.com/",
-    "streamUrl": "http://23.237.104.106:8080/USA_NICKELODEON/index.m3u8",
-    "quality": "1080p",
+    "streamUrl": "http://198.58.104.90:8989/nickelodeon/index.m3u8",
+    "quality": "720p",
     "streamName": "Nickelodeon",
     "streamLogo": "https://i.imgur.com/E84jnP8.png"
   },
@@ -93483,6 +93511,21 @@
     "streamLogo": "https://i.imgur.com/ePrdyLi.png"
   },
   {
+    "id": "PrimaNews.ro",
+    "name": "Prima News",
+    "logo": "https://i.imgur.com/wlqGfU2.png",
+    "categories": [
+      "news"
+    ],
+    "country": "RO",
+    "network": null,
+    "website": "https://www.primaplay.ro/live/primanews",
+    "streamUrl": "https://hls02ns.antenaplay.ro/hls/prima-news-hd/index.m3u8",
+    "quality": null,
+    "streamName": "Prima News",
+    "streamLogo": "https://i.imgur.com/wlqGfU2.png"
+  },
+  {
     "id": "PrimaShow.cz",
     "name": "Prima Show",
     "logo": "https://i.imgur.com/XbwAwkp.png",
@@ -93755,6 +93798,19 @@
     "streamLogo": "https://i.imgur.com/ukBacSn.png"
   },
   {
+    "id": "ProArena.ro",
+    "name": "Pro Arena",
+    "logo": "https://i.imgur.com/KQmB9Cc.png",
+    "categories": [],
+    "country": "RO",
+    "network": "Pro TV",
+    "website": "http://www.proarena.ro/",
+    "streamUrl": "http://eb4b8dcf.kablakaka.ru/iptv/AE8BY6FHF5ZGAG/6990/index.m3u8",
+    "quality": null,
+    "streamName": "Pro Arena",
+    "streamLogo": "https://i.imgur.com/KQmB9Cc.png"
+  },
+  {
     "id": "ProBusiness.ru",
     "name": "Pro Business",
     "logo": "https://i.imgur.com/1u8KvTD.png",
@@ -93768,6 +93824,21 @@
     "quality": "720p",
     "streamName": "Pro Business",
     "streamLogo": "https://i.imgur.com/1u8KvTD.png"
+  },
+  {
+    "id": "ProCinema.ro",
+    "name": "Pro Cinema",
+    "logo": "https://i.imgur.com/TvHFGwZ.png",
+    "categories": [
+      "movies"
+    ],
+    "country": "RO",
+    "network": "Pro TV",
+    "website": "https://procinema.protv.ro/",
+    "streamUrl": "http://eb4b8dcf.kablakaka.ru/iptv/AE8BY6FHF5ZGAG/6951/index.m3u8",
+    "quality": null,
+    "streamName": "Pro Cinema",
+    "streamLogo": "https://i.imgur.com/TvHFGwZ.png"
   },
   {
     "id": "ProLyubov.ru",
@@ -113844,19 +113915,6 @@
     "streamLogo": "https://images.iptv.rt.ru/images/d6iist8mifeailfopupg.png"
   },
   {
-    "id": "Starz.us",
-    "name": "Starz",
-    "logo": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/03/Starz_2022.svg/960px-Starz_2022.svg.png",
-    "categories": [],
-    "country": "US",
-    "network": "STARZ",
-    "website": "https://www.starz.com/",
-    "streamUrl": "http://23.237.104.106:8080/USA_STARZ/index.m3u8",
-    "quality": "1080p",
-    "streamName": "Starz",
-    "streamLogo": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/03/Starz_2022.svg/960px-Starz_2022.svg.png"
-  },
-  {
     "id": "StarzCinema.us",
     "name": "Starz Cinema",
     "logo": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ef/Starz_Cinema_Logo_2022.svg/960px-Starz_Cinema_Logo_2022.svg.png",
@@ -114898,6 +114956,22 @@
     "quality": "1080p",
     "streamName": "STZ TV",
     "streamLogo": "https://i.imgur.com/SeF2I7q.png"
+  },
+  {
+    "id": "SuaraSurabayaVisualRadio.id",
+    "name": "Suara Surabaya Visual Radio",
+    "logo": "https://upload.wikimedia.org/wikipedia/id/f/f8/Suara_Surabaya.svg",
+    "categories": [
+      "news",
+      "interactive"
+    ],
+    "country": "ID",
+    "network": "Suara Surabaya Media",
+    "website": "https://www.suarasurabaya.net/visualradio/",
+    "streamUrl": "https://ssfm.siar.us/ssfm/live/playlist.m3u8",
+    "quality": "720p",
+    "streamName": "Suara Surabaya Visual Radio",
+    "streamLogo": "https://upload.wikimedia.org/wikipedia/id/f/f8/Suara_Surabaya.svg"
   },
   {
     "id": "Subbota.ru",
@@ -119529,6 +119603,19 @@
     "quality": "720p",
     "streamName": "Telefe Rosario",
     "streamLogo": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/Telefe_Rosario_%282018%29.png/960px-Telefe_Rosario_%282018%29.png"
+  },
+  {
+    "id": "TelefeSalta.ar",
+    "name": "Telefe Salta",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/Telefe_Salta_%282018%29.png/960px-Telefe_Salta_%282018%29.png",
+    "categories": [],
+    "country": "AR",
+    "network": null,
+    "website": "http://salta.mitelefe.com/",
+    "streamUrl": "https://canal11saltatv.unpocodeawita.workers.dev/",
+    "quality": null,
+    "streamName": "Telefe Salta",
+    "streamLogo": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/Telefe_Salta_%282018%29.png/960px-Telefe_Salta_%282018%29.png"
   },
   {
     "id": "TelefeTucuman.ar",
